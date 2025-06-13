@@ -9,6 +9,8 @@ Phishing Detector Extension is a chrome extension that helps users to identify t
 1. Click on the "Releases" section in this repository
 2. Download "Phising-Detector-Extension.zip" file
 3. Extract all
-4. Notes : Make sure you have node js on your device
+
+# Notes : Make sure you have node js on your device
 
 # STEP
+![image](https://github.com/user-attachments/assets/97c9e4a6-08b3-4e62-84b2-eb6b3ffb544a)
