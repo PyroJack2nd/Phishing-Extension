@@ -29,7 +29,7 @@ Phishing Detector Extension is a chrome extension that helps users to identify t
 ![image](https://github.com/user-attachments/assets/1f995146-ef46-44fe-87ec-3ceecead44ae)
 
 ## 6. Click on the extension icon and you're good to go!
-![image](https://github.com/user-attachments/assets/2cdacbd5-b0d5-42e7-b289-d06445133645)
+![image](https://github.com/user-attachments/assets/f7ccf29d-09fe-42f8-b81f-4f95cf00f23f)
 
 # Other output example:
 ![image](https://github.com/user-attachments/assets/812bde8c-f5a5-4a40-b75c-047875954002)
