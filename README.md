@@ -17,7 +17,7 @@ Phishing Detector Extension is a chrome extension that helps users to identify t
 ![image](https://github.com/user-attachments/assets/90d6406d-2eaf-477b-948b-c9ff51f26842)
 
 ## 2. Open CMD in the **server** folder path.
-![image](https://github.com/user-attachments/assets/2db35fcc-6ecb-4063-9f2e-12ac2e7f734e)
+<img width="1402" height="781" alt="image" src="https://github.com/user-attachments/assets/740bb63c-e488-4d5f-9bd7-d91a93c9b563" />
 
 ## 3. Run server.js by typing "node server.js", and make sure the output matches the one shown below.
 ![image](https://github.com/user-attachments/assets/8a925752-a97b-4f1a-a0e3-ddf76c61af29)
